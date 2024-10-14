@@ -12,3 +12,4 @@ What I am working on:
   🧠 Let’s chat about DSA, coding contests, and innovative solutions
   🧩 Skilled in logic building and problem-solving, with a passion for creating impactful applications
 
+Tech stacks:
