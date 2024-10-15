@@ -34,7 +34,7 @@
 
 ## 👨‍💻 Coding Profile:
 <p align="left">
-  <a href="https://leetcode.com/u/Saumya_Patil_02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/Saumya_Patil_02/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ## 📊 GitHub Stats:
