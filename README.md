@@ -39,12 +39,11 @@
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashpak81&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumyaPatil&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
 </p>
 
 ## 🌐 Connect with Me:
 <p align="left">
-  <a href="mailto:ashpakpatel81@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40"/></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ashpakpatel"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40"/></a> &nbsp;&nbsp;
-  <a href="https://twitter.com/AshpakP13832809"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="40"/></a>
+  <a href="mailto:saupatil10dec@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saumya-patil02"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40"/></a> &nbsp;&nbsp;
 </p>
