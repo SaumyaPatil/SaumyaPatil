@@ -5,7 +5,7 @@
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm Working On:
 
  - 💻 Proficient in Java and JavaScript 
- - 🌱 Expanding my knowledge in backend development and 
+ - 🌱 Expanding my knowledge in backend development and Devops
  - 🖥️ Hands-on experience in frontend development with React.js and Next.js 
  - 🚀 Currently working on a live project aimed at benefiting mankind 
  - 🤝 Eager to collaborate on community building, code projects, and open-source initiatives 
