@@ -7,7 +7,7 @@
  - 💻 Proficient in Java and JavaScript
  - 🌱 Expanding my knowledge in backend development
  - 🖥️ Hands-on experience in frontend development with React.js and Next.js
- - 🚀 Currently working on a live project aimed at benefiting 
+ - 🚀 Currently working on a live project aimed at benefiting mankind
  - 🤝 Eager to collaborate on community building, code projects, and open-source initiatives 
  - 👥 Enthusiastic about engaging with tech communities 
  - 🧠 Let’s chat about DSA, coding contests, and innovative solutions 
