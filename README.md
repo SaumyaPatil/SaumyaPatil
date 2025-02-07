@@ -8,7 +8,7 @@
  - 🌱 Expanding my knowledge in backend development
  - 🖥️ Hands-on experience in frontend development with React.js and Next.js
  - 🚀 Currently working on a live project aimed at benefiting mankind
- - 🤝 Eager to collaborate on community building, code projects, and open-source initiatives
+ - 🤝 Eager to collaborate on community building, code projects, and open-source 
  - 👥 Enthusiastic about engaging with tech communities 
  - 🧠 Let’s chat about DSA, coding contests, and innovative solutions 
  - 🧩 Skilled in logic building and problem-solving, with a passion for creating impactful applications
