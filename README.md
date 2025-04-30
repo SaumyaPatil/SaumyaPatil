@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hello World! I'm Saumya Patil</h1> 
+<h1 align="center">👋 Hello World! I'm Saumya</h1> 
 <p align="center">Innovative | Collaborative | Resourcefull</p>
 
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm Working On:
